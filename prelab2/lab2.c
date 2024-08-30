@@ -1,5 +1,5 @@
 /**
-* Name: Joseph Johnson 
+* Name: J-D-J123 
 * Date: 8/27/2024 
 * File: (preLab) lab2.c 
 * Desc: print the values of A, B, C, D
